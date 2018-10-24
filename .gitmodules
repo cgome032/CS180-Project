@@ -1,0 +1,3 @@
+[submodule "src/RecipeBinder"]
+	path = src/RecipeBinder
+	url = https://github.com/cgome032/RecipeBinder.git
